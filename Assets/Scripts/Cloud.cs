@@ -48,9 +48,7 @@ public class Cloud : MonoBehaviour
       
     void Update()
     {
-      if (Input.GetKeyDown(KeyCode.Space)) {                                         
-            Restart();
-        }  
+      
     }
     
     void Restart() {                                                                   
